@@ -25,4 +25,4 @@ Python
 **Future improvements**
 
 - A loop to keep it going for multiple password inputs.
-- Selection to see if they ant to generate a new password.
+- Selection to see if they want to generate a new password.
